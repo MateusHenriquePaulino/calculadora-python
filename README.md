@@ -31,14 +31,14 @@ Feita de forma simples e legível, mas com uma interface moderna e harmoniosa.
 1. Clone este repositório:
 
    ```
-   git clone https://github.com/seuusuario/calculadora-dark-gui.git
-   cd calculadora-dark-gui
+   git clone https://github.com/MateusHenriquePaulino/calculadora-python.git
+   cd calculadora-python
    ```
 
 2. Execute a calculadora:
 
    ```
-   python calculadora_gui_dark.py
+   python ccalculadora-python
    ```
 
 3. A interface será exibida. Use os botões para digitar números e operações.
