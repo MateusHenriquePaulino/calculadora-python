@@ -38,7 +38,7 @@ Feita de forma simples e legível, mas com uma interface moderna e harmoniosa.
 2. Execute a calculadora:
 
    ```
-   python ccalculadora-python
+   python calculadora-python
    ```
 
 3. A interface será exibida. Use os botões para digitar números e operações.
